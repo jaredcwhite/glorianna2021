@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<!-- content
+================================================== -->
+<section class="s-content">
+  <div class="row">
+    <div class="column large-12">
+      <section>
+        <div class="s-content__media">
+          {% if page.data.image %}
+            <img src="{{ page.data.image }}" alt="featured image" />
+          {% endif %}
+        </div> <!-- end s-content__media -->
+
+        <div class="s-content__primary">
+
+<h1 class="s-content__title">{{ page.data.title }}</h1>
+
+{% if page.data.layout == "post" %}
+  <ul class="s-content__post-meta">
+    <li class="date">{{ page.data.date | date: "%B %-d, %Y" }}</li>
+  </ul>
+{% endif %}
+
+{{ content }}
+
+        </div> <!-- end s-content__primary -->
+
+      </section>
+
+    </div> <!-- end column -->
+  </div> <!-- end row -->
+</section> <!-- end s-content -->
