@@ -13,4 +13,4 @@ Sorry I haven't posted in a while, but if you want my new artwork, I'm selling i
 
 ![Looking at the painting canvas at an angle](/images/Glorianna-painting-floor.jpg)
 
-**_Email [jaredwhite+glorianna.hey.com](mailto:jaredwhite+glorianna@hey.com) for a shipping quote and link to purchase through PayPal._**
+**_Email [jaredwhite+glorianna@hey.com](mailto:jaredwhite+glorianna@hey.com) for a shipping quote and link to purchase through PayPal._**
